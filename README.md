@@ -20,7 +20,7 @@ using mailtrap to check notifaction for code of twofactor
  install vite if required
  php artisan migrate
 (http://127.0.0.1:8000/login) for login
-http://127.0.0.1:8000/register for tegister
+http://127.0.0.1:8000/register for register
 if required change mailtrp details in .env file
 
  
