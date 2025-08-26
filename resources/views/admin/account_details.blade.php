@@ -4,7 +4,7 @@
 
 @section('content')
     <div class="container-fluid">
-        <h1 class="mb-4">Account Details</h1>
+        <h1 class="mb-4">Account Details testet</h1>
 
         @if (session('success'))
             <div class="alert alert-success">
