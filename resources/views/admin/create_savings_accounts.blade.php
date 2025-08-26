@@ -4,7 +4,7 @@
 
 @section('content')
     <div class="container-fluid">
-        <h1 class="mb-4 text-center">Create Savings Accounts</h1>
+        <h1 class="mb-4 text-center">Create Savings Accounts trster</h1>
   <!-- Display Success or Error Message -->
         @if (session('success'))
             <div class="alert alert-success">
